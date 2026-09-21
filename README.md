@@ -108,7 +108,9 @@ The `output/` directory is always created **next to the script itself**, regardl
 ```
 .
 ├── feature_descriptors.py   # Main script — all 7 descriptors + preview logic
-├── output/                  # Auto-generated results (created on first run)
+├── Input (Face).webp        # An image of human face for demonstration
+├── Input (Sudoku).png       # An Image of Sudoku game for demonstration 
+├── output/                  # Generated results (Auto-generated, Demo (Face) & Demo (Sudoku))
 └── README.md
 ```
 
